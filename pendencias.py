@@ -1,5 +1,7 @@
 import pandas as pd
 
+##teste
+
 caminho_pend = r'C:\Users\fsp_adolpho.salvador\Desktop\Konica Minolta\Desktop Cloud - Documentos\Desktop\Teste Pendencias\PEND.XLSX'
 caminho_pend_geral = r'C:\Users\fsp_adolpho.salvador\Desktop\Konica Minolta\Desktop Cloud - Documentos\Desktop\Teste Pendencias\pend geral.XLSX'
 caminho_zstok = r'C:\Users\fsp_adolpho.salvador\Desktop\Konica Minolta\Desktop Cloud - Documentos\Desktop\Teste Pendencias\zstok.XLSX'
